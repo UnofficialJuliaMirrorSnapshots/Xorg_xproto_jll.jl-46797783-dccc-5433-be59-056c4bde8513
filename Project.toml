@@ -1,0 +1,10 @@
+name = "Xorg_xproto_jll"
+uuid = "46797783-dccc-5433-be59-056c4bde8513"
+version = "7.0.31+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
